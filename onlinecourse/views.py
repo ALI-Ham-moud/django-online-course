@@ -133,4 +133,3 @@ def enroll(request, course_id):
 #def show_exam_result(request, course_id, submission_id):
 
 
-
